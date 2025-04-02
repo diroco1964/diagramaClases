@@ -1,0 +1,15 @@
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\bin\Debug\net9.0\animal.exe
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\bin\Debug\net9.0\animal.deps.json
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\bin\Debug\net9.0\animal.runtimeconfig.json
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\bin\Debug\net9.0\animal.dll
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\bin\Debug\net9.0\animal.pdb
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\animal.AssemblyInfoInputs.cache
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\animal.AssemblyInfo.cs
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\animal.csproj.CoreCompileInputs.cache
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\animal.sourcelink.json
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\animal.dll
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\refint\animal.dll
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\animal.pdb
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\animal.genruntimeconfig.cache
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\animal\obj\Debug\net9.0\ref\animal.dll
