@@ -1,0 +1,15 @@
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\bin\Debug\net9.0\libro_Biblioteca.exe
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\bin\Debug\net9.0\libro_Biblioteca.deps.json
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\bin\Debug\net9.0\libro_Biblioteca.runtimeconfig.json
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\bin\Debug\net9.0\libro_Biblioteca.dll
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\bin\Debug\net9.0\libro_Biblioteca.pdb
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\libro_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\libro_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\libro_Biblioteca.AssemblyInfo.cs
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\libro_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\libro_Biblioteca.sourcelink.json
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\libro_Biblioteca.dll
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\refint\libro_Biblioteca.dll
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\libro_Biblioteca.pdb
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\libro_Biblioteca.genruntimeconfig.cache
+C:\Users\manch\OneDrive\Escritorio\programación\doo\diagramasClases\libro_Biblioteca\obj\Debug\net9.0\ref\libro_Biblioteca.dll
