@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\diagramasClases\\diagramasClases.csproj": {}
+    "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\ejercicio1\\ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\diagramasClases\\diagramasClases.csproj": {
+    "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\ejercicio1\\ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\diagramasClases\\diagramasClases.csproj",
-        "projectName": "diagramasClases",
-        "projectPath": "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\diagramasClases\\diagramasClases.csproj",
+        "projectUniqueName": "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\ejercicio1\\ejercicio1.csproj",
+        "projectName": "ejercicio1",
+        "projectPath": "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\ejercicio1\\ejercicio1.csproj",
         "packagesPath": "C:\\Users\\manch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\diagramasClases\\obj\\",
+        "outputPath": "C:\\Users\\manch\\OneDrive\\Escritorio\\programación\\doo\\diagramasClases\\ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manch\\AppData\\Roaming\\NuGet\\NuGet.Config"
