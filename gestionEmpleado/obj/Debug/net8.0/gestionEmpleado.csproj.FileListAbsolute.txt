@@ -1,0 +1,15 @@
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\bin\Debug\net8.0\gestionEmpleado.exe
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\bin\Debug\net8.0\gestionEmpleado.deps.json
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\bin\Debug\net8.0\gestionEmpleado.runtimeconfig.json
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\bin\Debug\net8.0\gestionEmpleado.dll
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\bin\Debug\net8.0\gestionEmpleado.pdb
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\gestionEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\gestionEmpleado.AssemblyInfoInputs.cache
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\gestionEmpleado.AssemblyInfo.cs
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\gestionEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\gestionEmpleado.sourcelink.json
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\gestionEmpleado.dll
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\refint\gestionEmpleado.dll
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\gestionEmpleado.pdb
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\gestionEmpleado.genruntimeconfig.cache
+C:\Users\juan\Desktop\diagramaClases\gestionEmpleado\obj\Debug\net8.0\ref\gestionEmpleado.dll
